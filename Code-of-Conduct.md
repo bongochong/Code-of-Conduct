@@ -7,7 +7,7 @@
 
 03. If a man commits a kidnapping, he is to be imprisoned and pay 15 shekels of silver.
 
-04. If a slave marries a slave, and either slave is set free, the other is not freed.
+04. If a slave marries another slave, and either slave is set free, the other is not to be freed.
 
 05. If a slave marries a free person, he or she is to hand over the firstborn son to his owner.
 
