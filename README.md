@@ -1,2 +1,2 @@
 # Code-of-Conduct
-An Ancient Code of Conduct which Governs All of My Repositories.
+The ancient [Code of Conduct](Code-of-Conduct.md) which governs all of my repositories.
