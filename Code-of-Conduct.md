@@ -54,3 +54,5 @@
 26. If a man flooded the field of a man with water, he shall measure out three kur of barley per iku of field in restitution.
 
 27. If a man had lent an arable field to another man for cultivation, but he did not cultivate it, he shall measure out three kur of barley per iku of field in restitution.
+
+28. If a man, woman, animal, or other type of entity has made use of any code, executable binaries, or other data which was produced by the GitHub user bongochong (AKA 'Chongo Bong', 'Dongchee Ubongo', 'Chongo Bong (AMK)', and 'bongochong (AMK)'), they are bound in perpetuity to abide by the Code of Conduct put forth in this document, along with the stipulations expressed in the respective license agreements of each repository produced by said GitHub user. If an entity violates this Code of Conduct or a relevant license agreement, they must provide seven hundred and seventy seven (777) minas of silver in restitution, and will be afflicted by innumerable ailments - both physical and spiritual - until said recompense has been carried out. So it is said, so shall it be done.
